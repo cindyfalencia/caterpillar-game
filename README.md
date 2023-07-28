@@ -7,13 +7,14 @@ The Caterpillar Game is a simple yet engaging program that showcases the use of 
 
 How to Play the Caterpillar Game:
 
-Setup: The game starts with a caterpillar (represented by a series of connected cells) and food items scattered throughout the map.
-Controls: You will be able to control the direction of the caterpillar using keyboard controls (e.g., arrow keys).
-Movement: The caterpillar will move in the direction specified and continue moving in that direction until you change it.
-Eating Food: Whenever the caterpillar's head reaches a food item, it "eats" the food and grows one cell bigger.
-Win Condition: The final goal of the game is to eat all the food items on the map, making the caterpillar as long as possible.
+1. Setup: The game starts with a caterpillar (represented by a series of connected cells) and food items scattered throughout the map.
+2. Controls: You will be able to control the direction of the caterpillar using keyboard controls (e.g., arrow keys).
+3. Movement: The caterpillar will move in the direction specified and continue moving in that direction until you change it.
+4. Eating Food: Whenever the caterpillar's head reaches a food item, it "eats" the food and grows one cell bigger.
+5. Win Condition: The final goal of the game is to eat all the food items on the map, making the caterpillar as long as possible.
+
 Key Learning Objectives:
 
-Implementing different data structures to represent the caterpillar and food on the map.
-Practicing algorithms for caterpillar movement and collision detection.
-Understanding the use of data structures in creating interactive games.
+- Implementing different data structures to represent the caterpillar and food on the map.
+- Practicing algorithms for caterpillar movement and collision detection.
+- Understanding the use of data structures in creating interactive games.
